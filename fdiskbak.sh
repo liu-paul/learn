@@ -22,6 +22,7 @@ if [ $? != 0 ];then
    exit 1
 fi
 
+#mkfs
  
 echo "******/dev/sd${j} __was Fdisked! Waiting For 2 Second*****"  
 
@@ -37,4 +38,4 @@ sleep 1
  
 done 
 
-
+##########################
