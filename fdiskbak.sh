@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#qqq
+
 i=1  
 mkdir /export
 while [ $i -lt 24 ]  
